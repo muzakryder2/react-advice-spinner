@@ -1,7 +1,7 @@
 {
   "name": "jsm-advice-app",
   "version": "0.1.0",
-  "homepage": "https://muzakryder2.github.io",
+  "homepage": "https://muzakryder2.github.io/react-advice-spinner",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
